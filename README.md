@@ -30,9 +30,3 @@ Más allá de la colocación de objetos, este entorno implementa técnicas de op
     * Implementación de **Occlusion Culling** para no renderizar objetos fuera de cámara.
     * Uso de LODs (Level of Detail) en mallas complejas.
 
-### 📸 Galería
-| Detalle Ruinas | Iluminación Global |
-| :---: | :---: |
-| `![Ruins Detail](LINK_FOTO_1)` | `![Lighting](LINK_FOTO_2)` |
-
----
