@@ -8,9 +8,12 @@ Este proyecto es un ejercicio técnico y artístico centrado en la creación de 
 
 ### 🎬 Cinematic Showcase
 
+![alt text](Media/Escenario_gif3.gif)
 ![alt text](Media/Escenario_gif1.gif)
 ![alt text](Media/Escenario_gif2.gif)
-![alt text](Media/Escenario_gif3.gif)
+
+
+https://github.com/user-attachments/assets/99091b01-8f49-4669-8ec8-bf8b5e227e57
 
 
 ### 🎨 Aspectos Técnicos (Technical Art)
